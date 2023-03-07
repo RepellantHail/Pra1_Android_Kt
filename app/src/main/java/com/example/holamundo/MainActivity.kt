@@ -12,7 +12,6 @@ import java.time.temporal.TemporalQueries
 
 class MainActivity : AppCompatActivity() {
     protected var contador : Int = 0
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
